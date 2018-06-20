@@ -1,0 +1,20 @@
+
+
+
+
+//Notes
+
+
+//The test characters for the game will be the Angel Ramiel and Unit 01 for the player
+
+//Animation for Ramiel should be when he is firing (changing shape)
+
+//The Evangelion Unit should be firing the rifle or weapon 
+
+//Pixelate the images, background and the gifs or sprites to make them look similar 
+
+//Add the music 8 bit version 
+
+//Misato will display the stats at the beginning of each battle, and at the end when the enemy is defeated.
+
+
